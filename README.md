@@ -1,4 +1,4 @@
-#https://github.com/NILOY-VAU/NILOY-VAU/new/main?filename=README.md&path=%2F&value=-+%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40NILOY-VAU%0A-+%F0%9F%91%80+I%E2%80%99m+interested+in+...%0A-+%F0%9F%8C%B1+I%E2%80%99m+currently+learning+...%0A-+%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+...%0A-+%F0%9F%93%AB+How+to+reach+me+...%0A%0A%3C%21---%0ANILOY-VAU%2FNILOY-VAU+is+a+%E2%9C%A8+special+%E2%9C%A8+repository+because+its+%60README.md%60+%28this+file%29+appears+on+your+GitHub+profile.%0AYou+can+click+the+Preview+link+to+take+a+look+at+your+changes.%0A---%3E%0A HI I AM N!LOY ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ HI I AM N!LOY ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Alt text](https://camo.githubusercontent.com/ebf84be3c9b929b89ce2dbe8489c6df660a086d4785f432186b654cab36616c3/68747470733a2f2f6a2e746f7034746f702e696f2f705f31393636736b677738302e6a7067)
 
@@ -74,21 +74,8 @@ Here are some ideas to get you started:
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
-<p align="center">
+ 
 
-<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=N1LOY-V4U-CRACK&theme=vision-friendly-dark"></a>
-
-<p align="center">
-
-<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=niloy-jutt&theme=cobalt"></a>
-
-<p align="center">
-
-<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-VAU&theme=vision-friendly-dark"></a>
-
-<p align="center">
-
-<a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=kellar&theme=gruvbox"></a>
 
 ### Databases:
 
