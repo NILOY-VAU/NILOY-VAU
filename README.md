@@ -36,17 +36,17 @@ Here are some ideas to get you started:
 
 - ![Profile views](https://gpvc.arturio.dev/MRVIVEK-CODER)
 
-- [![GitHub followers](https://img.shields.io/github/followers/niloy0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/niloy0?tab=followers)
+- [![GitHub followers](https://img.shields.io/github/followers/NILOY-VAU.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/NILOY-VAU?tab=followers)
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
 ### GITHUB STATES 
 
-<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=NILOY-VAU&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=niloy0&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NILOY-VAU&theme=merko)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niloy0&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NILOY-VAU&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![Alt text](https://camo.githubusercontent.com/69a3c0bf0f29b55823790826b3ec5d02b238d6dd4af9b13a8ee339558d7e87d5/68747470733a2f2f6769746875622d726561646d652d73746174732e616e7572616768617a7261312e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4d6f6873696e5468654c6567656e64266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b)
 
@@ -62,9 +62,7 @@ Here are some ideas to get you started:
 
 <a href="https://instagram.com/md_niloy_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md_niloy_48/" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/channel/UCc-4SLIbh0NJtGPeQHbec6w
-
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc-4slibh0njtgpeqhbec6w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCc-4SLIbh0NJtGPeQHbec6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucc-4slibh0njtgpeqhbec6w" height="30" width="40" /></a>
 
 </p>
 
