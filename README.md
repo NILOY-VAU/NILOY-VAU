@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h3><b><i>Visitors :</i></b></h3>
+![](https://img.shields.io/badge/<NILOY_VAU>-<My_Profile_Visitor>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 ![Visitor Count](https://profile-counter.glitch.me/NILOY-VAU/count.svg)
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ![Alt text](https://camo.githubusercontent.com/bdc2bf0e7c954ae3cecff56b9712a4411a87c014780b8de8ee050f4f6a3c7b55/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57686174736170702d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070)
 
-### GITHUB STATES 
+![](https://img.shields.io/badge/<NILOY_VAU>-<GITHUB_STATES>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <a href="https://github.com/naiyan-official"><img width=550 src="https://github-profile-trophy.vercel.app/?username=NILOY-VAU&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
@@ -53,11 +53,9 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/HACKERIHSAN/MBF"><img title="MBF" src="https://github-readme-stats.vercel.app/api/pin/?username=niloy0&repo=NILOY-VAU&theme=vision-friendly-dark"></a>
 
-<h3 align="left">Connect with me:</h3>
+![](https://img.shields.io/badge/<NILOY_VAU>-<Connect_with_me:>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
-<p align="left">
-
-- 📫 How to reach me **mdniloyislam905@gmail.com**
+![](https://img.shields.io/badge/<GMAIL>-<mdniloyislam905@gmail.com>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <a href="https://twitter.com/NiloyVau48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloyahmed" height="30" width="40" /></a>
 
@@ -69,14 +67,13 @@ Here are some ideas to get you started:
 
 </p>
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/<NILOY_VAU>-<H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
-
-### Databases:
+![](https://img.shields.io/badge/<NILOY_VAU>-<Databases_:>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
 
 <p>
 
@@ -90,7 +87,8 @@ Here are some ideas to get you started:
 
 </p>
 
-### Tools:
+![](https://img.shields.io/badge/<NILOY_VAU>-<Tools_:>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
 
 <p>
 
@@ -108,7 +106,8 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3 align="left">Programming languages:</h3>
+![](https://img.shields.io/badge/<NILOY_VAU>-<Programming_languages_:>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
 
 <p>
 
